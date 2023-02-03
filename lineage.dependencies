@@ -1,0 +1,13 @@
+[
+    {
+        "repository": "android_device_j6lte",
+        "target_path": "device/samsung/j6lte"
+    }
+]
+[
+
+    {
+        "repository": "android_packages_resources_devicesettings",
+        "target_path": "packages/resources/devicesettings"
+    }
+]
